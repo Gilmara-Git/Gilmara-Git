@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently doing a bootcamp at [rocketseat](https://rocketseat.com.br/), where I am learning HTML5, CSS3, JavaScript, Postgres. 
 - 🔭 I’m currently working on random projects during the bootcamp.
-- 👯 I’m looking to collaborate open sources projects.
-- 💬 I post my progress on linkedIn.
+- 👯 I’m looking to collaborate on open sources projects.
+- 💬 I often post my progress on linkedIn.
 - 💬 Ask me about how you can start learning a second language. 
 - 📫 How to reach me: gilmarapq@hotmail.com
-- 😄 Pronouns: Persistant, Focus.
+- 😄 Pronouns: Persistant, Focus, empathy.
 - 🤔 I’ll be looking for a Job opportunity as a DEV soon. 
 - ⚡ Fun fact: shorty.
 
