@@ -8,10 +8,10 @@ But, something was missing, so I realized that learning how to code sounded just
 - 🔭 I’m currently working on random projects during the bootcamp.
 - 👯 I’m looking to collaborate on open sources projects.
 - 💬 I love to share what I have been learning. Therefore, I often post my progress on linkedIn.
-- 💬 Ask me about how you can start learning a second language, or what I know about HTML5 and CSS3. 
+- 💬 Ask me about how you can start learning a second language, or what I know about Html5, Css3 and JavaScript.
 - 📫 How to reach me: gilmarapq@hotmail.com
-- 😄 Pronouns: Persistant, Focus, empathy.
-- 🤔 I’ll be looking for a Job opportunity as a DEV soon. 
+- 😄 Pronouns: Persistant, Focus, Empathy.
+- 🤔 I’ll eventually be looking for a DEV opportunity.  
 - ⚡ Fun fact: shorty.
 
 <!--
