@@ -1,10 +1,14 @@
 ### Hi there 👋
+I'm Gilmara.
+I finally understood why I love technology. It challenges you all the time. Consequently, pushes you to the next level. 
+Since I graduated (2015) for Information Technology I have been working as a Support Analyst helping users on their various systems issues. 
+But, something was missing, so I realized that learning how to code sounded just right, since I could explore the other side. 
 
 - 🌱 I’m currently doing a bootcamp at [rocketseat](https://rocketseat.com.br/), where I am learning HTML5, CSS3, JavaScript, Postgres. 
 - 🔭 I’m currently working on random projects during the bootcamp.
 - 👯 I’m looking to collaborate on open sources projects.
-- 💬 I often post my progress on linkedIn.
-- 💬 Ask me about how you can start learning a second language. 
+- 💬 I love to share what I have been learning. Therefore, I often post my progress on linkedIn.
+- 💬 Ask me about how you can start learning a second language, or what I know about HTML5 and CSS3. 
 - 📫 How to reach me: gilmarapq@hotmail.com
 - 😄 Pronouns: Persistant, Focus, empathy.
 - 🤔 I’ll be looking for a Job opportunity as a DEV soon. 
