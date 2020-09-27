@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ 🔭 I’m currently working on random little projects designed to learn while practicing.
+
 <!--
 **Gilmara-Git/Gilmara-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
