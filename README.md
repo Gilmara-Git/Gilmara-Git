@@ -1,4 +1,4 @@
-### Hi there, I'm Gilmara 👋
+### Hi there, I'm Gilmara :woman_technoligist
 
 I finally understood why I love technology. It challenges you all the time. Consequently, pushes you to the next level. 
 Since I graduated (2015) for Information Technology I have been working as a Support Analyst helping users on their various systems issues. 
