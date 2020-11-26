@@ -9,7 +9,7 @@ But, something was missing, so I felt like I should explore the other side and l
 - 💬 I love to share what I have been learning. Therefore, I often post my progress on linkedIn.
 - 💬 Ask me about how you can start learning a second language, or what I know about Html5, Css3 and JavaScript.
 - 👋 I am passionate about the DEV communities out there.
-- :raising_hand: I'm currently preparing to become a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
+- :raising_hand: I'm a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
 - 📫 How to reach me: **gilmarapq@hotmail.com**
 - 😄 Pronouns: Persistant, Focus, Empathy, Grateful.
 - 🤔 I’ll eventually be looking for a DEV opportunity.  
