@@ -15,7 +15,7 @@ After working as a Support Analyst for years I felt I needed to do more. So, ins
 - :raising_hand: I'm a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
 - 📫 How to reach me: **gilmarapq@hotmail.com**
 - 😄 Pronouns: Persistant, Focus, Empathy, Grateful.
-- 🤔 I’ll eventually be looking for a DEV opportunity.  
+- 🤔 I am looking for an opportunity to collaborate as a software engineer in a team spirit environment, so we all can gain professional growth. .  
 - ⚡ Fun fact: shorty.
 - 💬 Ask me about how you can start learning a second language
 -  Keep coding and never give up!
