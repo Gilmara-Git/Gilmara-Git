@@ -1,7 +1,7 @@
 ### Hi there, I'm Gilmara :woman_technologist:
 
 Hello World!
-I am graduated in Information Technology and I am transitioning from Support Analyst to Front end/Mobile development. 
+I am graduated in Information Technology and I am interested in Front end/Mobile development. 
 After working as a Support Analyst for years I felt I needed to do more. So, instead of supporting existing systems I realized I could be coding them. 
 - 🌱 It all started when the pandemic hit us in 2020. I enrolled myself into a bootcamp at [rocketseat](https://rocketseat.com.br/), where I have learned HTML5, CSS3, JavaScript, Postgres by developing full web applications.
 - I have done additional courses to learn and practice javascript and its fundamentals.
