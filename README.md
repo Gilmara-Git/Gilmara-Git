@@ -14,7 +14,7 @@ So, instead of supporting systems I realized I could be coding them.
 **Volunteering**:  
 - :raising_hand: I'm a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
 - :raising_hand: I am a volunteer as a **Web Developer** for the **Siren** project. 
-This is an amazing project that works to presever marine fauna.
+This is an amazing project that works to preserve marine fauna.
 On this project I code using React and Bootstrap.
 
 
