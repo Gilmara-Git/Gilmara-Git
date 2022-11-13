@@ -11,7 +11,7 @@ So, instead of supporting systems I realized I could be coding them.
 - I have been coding Frontend and Mobile projects using JS, React and React Native for some time now.
 - My goal is to become a better dev today than I was yesterday, so independently of how much I have learned there is always much more,so I study everyday to make things happen.
 
-**Volunteering:  
+**Volunteering**:  
 - :raising_hand: I'm a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
 - :raising_hand: I am a volunteer as a **Web Developer** for the **Siren** project. On this project I code using React and Bootstrap.
 
