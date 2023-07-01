@@ -4,7 +4,7 @@
 - I am a Team player, and I also work well individually.
 - My 9-year experience with supporting applications and interacting with Devs, led me to love coding.
 - I started in bootcamps at [rocketseat](https://rocketseat.com.br/) school and their week coding programs, in fact I am currently doing their **Ignite React Native** Bootcamp now.
-- I never stopped studying and I know that being a passionate DEVs I never will.
+- I never stopped studying and I know that being a passionate **Dev** I never will.
 - Among the applications I have developed, I have worked with **JavaScript, NodeJS, HTML, CSS, PostgreSQL, React and React Native** for mobile applications.
 - My goal is to become a better dev today than I was yesterday, so independently of how much I have learned there is always much more, so I study everyday to make things happen.
 
