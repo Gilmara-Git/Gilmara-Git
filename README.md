@@ -1,15 +1,13 @@
 ### Hi there, I'm Gilmara :woman_technologist:
 
-I have graduated in Information Technology Management in 2015 and since then I work with systems.
+I am an enthusiastic Software Engineer committed to professional growth and focused on delivering quality applications. 
+I am a Team player, and I also work well individually.
+My 9-year experience with supporting applications and interacting with Devs, led me to love coding.
+I started in bootcamps ([rocketseat](https://rocketseat.com.br/) and week coding programs. 
+I never stopped studying and I know that being a passionate DEVs I never will.
+Among the applications I have developed, I have worked with JavaScript, NodeJS, HTML, CSS, PostgreSQL, React and React Native for mobile applications.
 
-I have a vast experience in supporting systems; however, after working as a Support Analyst for many years I felt I needed to do more. 
-
-So, instead of supporting systems I realized I could be coding them.  
-
-- 🌱 It all started when the pandemic hit us in 2020. I enrolled myself into a bootcamp at [rocketseat](https://rocketseat.com.br/), where I have learned HTML5, CSS3, JavaScript, Postgres by developing full web applications, and there is not going back, coding is my thing.
-- Since then, I have done and I am always doing additional courses to learn, practice and improve my skills.
-- I have been coding Frontend and Mobile projects using JS, React and React Native for some time now.
-- My goal is to become a better dev today than I was yesterday, so independently of how much I have learned there is always much more,so I study everyday to make things happen.
+- My goal is to become a better dev today than I was yesterday, so independently of how much I have learned there is always much more, so I study everyday to make things happen.
 
 **Volunteering**:  
 - :raising_hand: I'm a volunteer mentor at **Space Squad program** at [rocketseat](https://rocketseat.com.br/), which was designed to help programmer students exchange knowledge among themselves.
